@@ -246,8 +246,16 @@ footer {
 
   footer {
     width: 940px;
-    
+    height:195px;
   }
+  .copy {
+    font-size: 25px;
+  }
+
+  .redes {
+    font-size: 45px;
+  }
+  
 }
 
 
